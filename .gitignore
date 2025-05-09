@@ -1,0 +1,8 @@
+/dist
+/tmp
+/out-tsc
+
+.env
+node_modules/
+
+package-lock.json
